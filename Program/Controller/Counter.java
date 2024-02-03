@@ -1,6 +1,9 @@
 package Program.Controller;
 
 public class Counter implements AutoCloseable {
+    /**
+     * Класс счетчика
+     */
     private int count = 0;
 
     public void add() {

@@ -1,6 +1,9 @@
 package Program.Data;
 
 public abstract class Animals {
+    /**
+     * Класс животных
+     */
     private String name;
     private String age;
     private String command;

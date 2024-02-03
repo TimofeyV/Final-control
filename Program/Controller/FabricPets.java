@@ -10,6 +10,9 @@ import Program.Data.Dogs;
 import Program.Data.Hamsters;
 
 public class FabricPets {
+    /**
+     * 
+     */
     private static List<Animals> animals;
 
     public FabricPets() {
